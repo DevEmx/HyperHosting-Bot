@@ -92,4 +92,4 @@ client.on('guildMemberAdd', member => {
 	}
 });
 
-client.login('ODQ2NTM2NjA2Nzg0Njg0MDgy.YKw8pg.jI6K2D_eOm9ZXTp_lEMQ0y9PoWA');
+client.login('');
